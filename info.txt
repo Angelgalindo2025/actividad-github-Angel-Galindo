@@ -1,0 +1,8 @@
+Nombre del alumno: Angel Efren Galindo Colon
+Fecha: 10 de marzo de 2026
+
+Objetivo de la actividad:
+Practicar el flujo de trabajo de GitHub utilizando repositorios, ramas y Pull Request.
+
+¿Qué es un Pull Request?
+Un Pull Request es una solicitud para fusionar cambios de una rama a otra dentro de un repositorio de GitHub.
